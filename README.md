@@ -6,7 +6,7 @@ This repository contains the results of various experiments performed on the MNI
 
 ## 🧪 **Experiments Overview**
 
-We conducted 10 broad categories of experiments with a total of 5 variations for each. The primary goal was to maximize the test accuracy while maintaining a good balance between training and validation accuracy. Below is a summary of the experiments:
+We conducted 10 broad categories of experiments with a total of 5 variations for each(Total experiments that were conducted = `50(10 x 5)`. The primary goal was to maximize the test accuracy while maintaining a good balance between training and validation accuracy. Below is a summary of the experiments:
 
 ### 1. **Base Code**
    - **Experiment**: Alternative use of ReLU and tanh activation functions (starting with tanh).
